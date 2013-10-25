@@ -1,0 +1,12 @@
+C:\pro\C#\stuCertificate\stuCertificate\bin\Debug\stuCertificate.exe.config
+C:\pro\C#\stuCertificate\stuCertificate\bin\Debug\stuCertificate.exe
+C:\pro\C#\stuCertificate\stuCertificate\bin\Debug\stuCertificate.pdb
+C:\pro\C#\stuCertificate\stuCertificate\obj\Debug\stuCertificate.csprojResolveAssemblyReference.cache
+C:\pro\C#\stuCertificate\stuCertificate\obj\Debug\stuCertificate.exe
+C:\pro\C#\stuCertificate\stuCertificate\obj\Debug\stuCertificate.pdb
+C:\Github\StuCertificate\stuCertificate\bin\Debug\stuCertificate.exe.config
+C:\Github\StuCertificate\stuCertificate\obj\Debug\stuCertificate.exe
+C:\Github\StuCertificate\stuCertificate\obj\Debug\stuCertificate.pdb
+C:\Github\StuCertificate\stuCertificate\bin\Debug\stuCertificate.exe
+C:\Github\StuCertificate\stuCertificate\bin\Debug\stuCertificate.pdb
+C:\Github\StuCertificate\stuCertificate\obj\Debug\stuCertificate.csprojResolveAssemblyReference.cache
